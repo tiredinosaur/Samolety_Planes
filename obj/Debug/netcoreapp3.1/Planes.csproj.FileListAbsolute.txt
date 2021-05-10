@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.exe
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.deps.json
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.runtimeconfig.json
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.dll
+C:\Users\Admin\source\repos\Planes\bin\Debug\netcoreapp3.1\Planes.pdb
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.dll
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.pdb
+C:\Users\Admin\source\repos\Planes\obj\Debug\netcoreapp3.1\Planes.genruntimeconfig.cache
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.exe
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.deps.json
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.runtimeconfig.json
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.runtimeconfig.dev.json
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.dll
+C:\Users\Emil Schaydullin\Desktop\Planes\bin\Debug\netcoreapp3.1\Planes.pdb
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.AssemblyInfoInputs.cache
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.AssemblyInfo.cs
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.csproj.CoreCompileInputs.cache
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.dll
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.pdb
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.genruntimeconfig.cache
+C:\Users\Emil Schaydullin\Desktop\Planes\obj\Debug\netcoreapp3.1\Planes.csprojAssemblyReference.cache
